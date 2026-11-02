@@ -1,4 +1,4 @@
-Hello! Welcome to the Ultra Game Stash V2!
+Hello! Welcome to the Ultra Game Stash V3!
 More games will be added to the site over time, including more complicated and exciting games. For now, the games may be simple, but they’re still fun!
 With that being said, enjoy the site!
 IMPORTANT: When you choose a game, make sure you click on the game itself for it to start working.
